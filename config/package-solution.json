@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "upload-file-client-side-solution",
+    "id": "130af357-a3ff-4cb2-81be-5e5b5440310e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.4"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "UploadFile description"
+      },
+      "longDescription": {
+        "default": "UploadFile description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "upload-file Feature",
+        "description": "The feature that activates elements of the upload-file solution.",
+        "id": "037dcfcc-a1d0-4b70-a578-c1520a41ea5a",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/upload-file.sppkg"
+  }
+}
