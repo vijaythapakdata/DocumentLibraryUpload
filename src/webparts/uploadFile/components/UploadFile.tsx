@@ -4,6 +4,7 @@ import {sp} from '@pnp/sp/presets/all';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.min.js';
 export default class UploadFile extends React.Component<IUploadFileProps, any> {
+  //Constructor
   constructor(props:any){
     super(props);
     this.state={
