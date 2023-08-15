@@ -1,3 +1,6 @@
+
+
+
 # upload-file
 
 ## Summary
@@ -5,6 +8,8 @@
 Short summary on functionality and used technologies.
 
 [picture of the solution in action, if possible]
+![image](https://github.com/vijaythapakdata/DocumentLibraryUpload/assets/88570113/47c42fc1-3dc1-4231-a099-cfdcdface9c3)
+
 
 ## Used SharePoint Framework Version
 
@@ -71,4 +76,4 @@ This extension illustrates the following concepts:
 - [Use Microsoft Graph in your solution](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-microsoft-graph-apis)
 - [Publish SharePoint Framework applications to the Marketplace](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/publish-to-marketplace-overview)
 - [Microsoft 365 Patterns and Practices](https://aka.ms/m365pnp) - Guidance, tooling, samples and open-source controls for your Microsoft 365 development
-![image](https://github.com/vijaythapakdata/DocumentLibraryUpload/assets/88570113/d31fd400-ad71-46b3-9e8f-1530579f5a6c)
+
